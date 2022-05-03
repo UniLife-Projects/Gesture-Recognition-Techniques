@@ -1,0 +1,16 @@
+{
+  "name": "61007530_slideleftright",
+  "productName": "61007530_slideleftright",
+  "description": "My Electron application description",
+  "keywords": [],
+  "main": "./main.js",
+  "version": "1.0.0",
+  "author": "igbobros",
+  "scripts": {
+    "start": "electron ."
+  },
+  "dependencies": {},
+  "devDependencies": {
+    "electron": "9.0.2"
+  }
+}
